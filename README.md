@@ -114,8 +114,8 @@ Some insights from the analysis:
 
 If you're reviewing this for internship opportunities, feel free to reach out!
 
-**Name:** _Your Name_  
-**Email:** _your.email@gmail.com_  
-**LinkedIn:** _your profile link_  
+**Name:** _pratham singh  
+**Email:** _singhpratham165@gmail.com_  
+  
 
 ---
