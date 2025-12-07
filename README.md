@@ -91,11 +91,8 @@ The interactive dashboard includes:
 - Delivery performance  
 - Review score distribution  
 
-### 📌 Tableau Public Link  
-(Add after publishing)
 
-### 🖼 Dashboard Preview  
-(Add screenshot file: `tableau/dashboard_screenshot.png`)
+)
 
 ---
 
