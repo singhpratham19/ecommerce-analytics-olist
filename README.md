@@ -91,11 +91,8 @@ The interactive dashboard includes:
 - Delivery performance  
 - Review score distribution  
 
-### 📌 Tableau Public Link  
-(Add after publishing)
 
-### 🖼 Dashboard Preview  
-(Add screenshot file: `tableau/dashboard_screenshot.png`)
+)
 
 ---
 
@@ -114,8 +111,8 @@ Some insights from the analysis:
 
 If you're reviewing this for internship opportunities, feel free to reach out!
 
-**Name:** _Your Name_  
-**Email:** _your.email@gmail.com_  
-**LinkedIn:** _your profile link_  
+**Name:** _pratham singh  
+**Email:** _singhpratham165@gmail.com_  
+  
 
 ---
