@@ -32,16 +32,7 @@ The goal of this project was to:
 
 ---
 
-## 📁 Folder Structure
-ecommerce-analytics-olist/
-│
-├── data/                       # Cleaned dataset + SQL exported tables
-├── sql/                        # All SQL queries used in the project
-├── python/                     # Google Colab notebook (cleaning + EDA)
-├── tableau/                    # Tableau workbook + screenshots
-├── images/                     # Charts and visuals used in README/EDA
-└── README.md                   # Project documentation
----
+
 
 ## 🧹 Data Cleaning & Feature Engineering
 
